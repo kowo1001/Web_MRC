@@ -1,0 +1,22 @@
+.list-group {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+/*Sidebar*/
+
+.side-bar {
+}
+
+.side-list {
+  display: block;
+  text-align: center;
+  padding: 30px 0;
+  border-bottom: 1px solid #000;
+}
+
+.side-menu {
+}
